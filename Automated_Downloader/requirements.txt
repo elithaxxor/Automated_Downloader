@@ -1,0 +1,12 @@
+requests
+json
+wget
+tensorflow
+beautifulsoup4
+numpy
+pandas
+matplotlib
+linkGrabber
+platformdirs  # platform is a built-in module, but platformdirs may be needed for cross-platform compatibility
+IPCHECKER @ file://path/to/IPCHECKER  # Replace with actual path if necessary
+__downloadlist @ file://path/to/__downloadlist  # Replace with actual path if necessary
